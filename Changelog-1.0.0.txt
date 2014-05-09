@@ -1,0 +1,11 @@
+Downgraded ComputerCraft to 1.58 (For compatability with OpenPeripheral)
+Added dartpatch-2.3 mod (Allows MRF harvesters/planters to use force saplings)
+Added MagicalCropsMfrHarvester-1.0 mod (Allows MFR harvesters/planters to use magical crops)
+Upgraded Magical Crops to magical_crops_1.6.4_3.2.0_BETA_15a
+Removed BattleTowers mod
+Removed Glenn's Gasses
+Removed Copious Canines
+Disabled EnvironMine physics on a few specific blocks
+Enabled watering can recipe in ExtraUtilities config
+Added mod NEIAddons neiaddons-mc164-1.10.4.64 https://github.com/bdew/neiaddons
+Added a "special" mod
