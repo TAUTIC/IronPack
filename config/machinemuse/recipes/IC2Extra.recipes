@@ -1,0 +1,32 @@
+[
+	{
+		"ingredients" : [
+			[ { "oredictName" : "dyeBlue" }, { "oredictName" : "glass" }, { "oredictName" : "dyeBlue" } ], 
+			[ { "oredictName" : "glass" }, { "oredictName" : "dyeBlue" }, { "oredictName" : "glass" } ],
+			[ { "oredictName" : "circuitBasic" }, { "unlocalizedName" : "itemSolarHelmet" }, { "oredictName" : "circuitBasic" }]
+		],
+		"result" : {
+			"oredictName" : "componentSolarPanel"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "ingotIron" }, { "oredictName" : "circuitAdvanced" }, { "oredictName" : "ingotIron" } ], 
+			[ { "oredictName" : "componentSolenoid" }, { "oredictName" : "componentSolenoid" }, { "oredictName" : "componentSolenoid" } ],
+			[ { "oredictName" : "ingotIron" }, { "oredictName" : "circuitAdvanced" }, { "oredictName" : "ingotIron" }]
+		],
+		"result" : {
+			"oredictName" : "componentMagnet"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "circuitAdvanced" }, { "unlocalizedName" : "item.projectred.core.wiredebugger" }, { "oredictName" : "circuitAdvanced" } ], 
+			[ { "unlocalizedName" : "item.thermalexpansion.component.conduitEnergyReinforcedEmpty" }, { "unlocalizedName" : "item.thermalexpansion.component.conduitEnergyReinforcedEmpty" }, { "unlocalizedName" : "item.thermalexpansion.component.conduitEnergyReinforcedEmpty" } ],
+			[ null, null, null]
+		],
+		"result" : {
+			"oredictName" : "componentComputerChip"
+		}
+	}	
+]
