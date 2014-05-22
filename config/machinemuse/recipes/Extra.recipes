@@ -28,5 +28,33 @@
 		"result" : {
 			"oredictName" : "componentComputerChip"
 		}
+	},
+	{
+		"ingredients" : [
+			[ { "unlocalizedName" : "ic2.itemPartCarbonFibre" }, { "unlocalizedName" : "ic2.itemPartCarbonFibre" }, { "unlocalizedName" : "ic2.itemPartCarbonFibre" } ]
+		],
+		"result" : {
+			"oredictName" : "componentCarbonMyofiber"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "oredictName" : "plateTin" }, { "oredictName" : "componentCarbonMyofiber" }, { "oredictName" : "plateTin" } ],
+			[ { "oredictName" : "plateTin" }, { "oredictName" : "dyeBrown" }, { "oredictName" : "plateTin" } ],
+			[ { "oredictName" : "plateTin" }, { "oredictName" : "componentCarbonMyofiber" }, { "oredictName" : "plateTin" } ]
+		],
+		"result" : {
+			"oredictName" : "componentMyofiberGel"
+		}
+	},
+	{
+		"ingredients" : [
+			[ { "unlocalizedName" : "ic2.itemPartCarbonMesh" }, { "oredictName" : "componentCarbonMyofiber" }, { "unlocalizedName" : "ic2.itemPartCarbonMesh" } ],
+			[ { "unlocalizedName" : "ic2.itemPartCarbonMesh" }, { "oredictName" : "componentCarbonMyofiber" }, { "unlocalizedName" : "ic2.itemPartCarbonMesh" } ],
+			[ { "unlocalizedName" : "ic2.itemPartCarbonMesh" }, { "oredictName" : "componentCarbonMyofiber" }, { "unlocalizedName" : "ic2.itemPartCarbonMesh" } ]
+		],
+		"result" : {
+			"oredictName" : "componentArtificialMuscle"
+		}
 	}	
 ]
