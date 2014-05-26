@@ -1,0 +1,38 @@
+1.1.0 [dev] - based on commit bd829c8aa03881dfea436fdc59580c4f5fe787f4 May 26, 2014
+
+PowerSuits:
+	- Disabled IC2 recipes 
+	- Added custom recipe configs for the power suit modules
+	- Fixed GUI text in the Tinker Table
+	
+EnviroMine:
+	- Fixed item ID conflicts with Forestry Mod
+	
+	- Added Biomes o'Plenty support
+		-> Quick sand is now a sliding block
+		-> Mud is now a sliding block
+		-> Puddle is now a sliding block
+		-> Flowers can increase sanity by 0.1
+		-> Flower bands can increase sanity 0.1
+	
+	- Added DartCraft support
+		-> Bucket of Force has a +0.1 effect on the ambient air quality
+		-> Bucket of Force has an ambient temperature of 60
+		-> Liquid Force has a +0.1 effect on the ambient air quality
+		-> Liquid Force has a temperature of 100
+	
+	- Added HardCore Ender Expansion support
+		-> Removed physics from block 1614 that covers the top layer of extra islands
+		-> Removed physics form the puzzle blocks 1622
+		-> Death flower can decrease sanity by 0.3
+		-> Lilyfire can decrease sanity by 0.3
+	
+	- Added ExtraD support
+		-> Ender sand is now a sliding block
+	
+	- Added Project Zulu support
+		-> Quick sand is now a sliding block
+		-> Damp soil is now a sliding block
+		
+Lucky Blocks
+	- Removed Vanilla Ender Chests from the possible drop list 
