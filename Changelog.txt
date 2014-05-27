@@ -17,7 +17,6 @@ Upgraded OpenPeripheralAddons to 0.1.3
 Upgraded OpenBlocks to 1.2.8
 Added Forestry Mod 2.3.1.1
 Added ModularPowersuits-1.6.4-0.10.0-91
-Added Oceancraft v1.2.1
 Added powersuitaddons-1.6.4-877
   Added slick-util
   Added Numina-1.6.2-0.1.2-55
