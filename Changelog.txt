@@ -5,21 +5,25 @@ Remove the MFR MagicalC support mod
 1.1.0 [dev]
 Upgraded EnderIO to EnderIO-1.6.4-1.0.4.370
 Upgraded ProjectRed to 4.3.7 build #32
-Upgraded DartCraft to 0.2.18beta
+Upgraded DartCraft Beta 0.2.19v4
 Upgraded Minefactory Reloaded to MineFactoryReloaded-2.7.9
 Upgraded Backpacks mod to backpack-1.28.37-1.6.x
 Upgraded NetherOres mod to NetherOres-2.2.2-55
 Upgraded Hardcore Ender Expansion to HEE_1.6.4_release-1.6
-Upgraded Enviromine to version 1.1.48
+Upgraded Enviromine to version 1.1.51
 Upgraded OpenModsLib to 0.5
 Upgraded OpenPeripheralCore to 0.4.0
 Upgraded OpenPeripheralAddons to 0.1.3
 Upgraded OpenBlocks to 1.2.8
+Upgraded Magical Crops to magical_crops_1.6.4_3.2.0_BETA_15a
 Added Forestry Mod 2.3.1.1
 Added ModularPowersuits-1.6.4-0.10.0-91
 Added powersuitaddons-1.6.4-877
   Added slick-util
   Added Numina-1.6.2-0.1.2-55
+Added betterAnvil - 3.0.9
+Remove Hunger Overhaul
+Remove Guff Core
 
 1.0.0
 Downgraded ComputerCraft to 1.58 (For compatability with OpenPeripheral)
