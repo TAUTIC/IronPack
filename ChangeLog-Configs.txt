@@ -1,4 +1,4 @@
-1.1.0 [dev] - based on commit bd829c8aa03881dfea436fdc59580c4f5fe787f4 May 26, 2014
+1.1.0 [dev] - based on commit 91ba5bfa4dcd44faaa93bd737b3bd78efda12e5a Jun 08, 2014
 
 PowerSuits:
 	- Disabled IC2 recipes 
@@ -7,6 +7,14 @@ PowerSuits:
 	
 EnviroMine:
 	- Fixed item ID conflicts with Forestry Mod
+	- Fixed potion ID conflicts
+	- Added some food configs to affect the player status
+	- Tire 1 golden apple now restores 40% sanity
+	- Diamond apple now restores 60% sanity
+	- Added juice support to help with early game thirst issues
+	- Added milk as a way to restore 7-10% sanity
+	- Added chocolate milk to restore 20% sanity
+	- Lowered the player sanity loss on Ender Dragon contact from 5% to 3.5%
 	
 	- Added Biomes o'Plenty support
 		-> Quick sand is now a sliding block
@@ -33,6 +41,30 @@ EnviroMine:
 	- Added Project Zulu support
 		-> Quick sand is now a sliding block
 		-> Damp soil is now a sliding block
+	
+	- Added Tinkers Construct support
+		-> Added torches to affect the ambient
+		
 		
 Lucky Blocks
 	- Removed Vanilla Ender Chests from the possible drop list 
+	
+Open Blocks
+	- Fixed item ID conflicts
+	
+Equivalent Exchange 3
+	- Removed configs
+	
+Project Zulu
+	- Fixed Iron Scale Boots ID conflict
+	
+Secret Rooms Mod
+	- Fixed recipe for secret wooden door
+
+Magical Crops
+	- Fixed ID conflicts on some seeds
+	- Enabled MFR support
+	- Disabled the ability to get crop seeds from tall grass 
+	
+Project Red
+	- Fixed ID conflicts

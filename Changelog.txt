@@ -1,6 +1,4 @@
 1.2.0 TODO
-Magical crops MFR support config (I:"MineFatoryReloaded, Planter and Harvester support, set; 0 = Enabled(Default), 1 = Disable"=1)
-Remove the MFR MagicalC support mod
 
 1.1.0 [dev]
 Upgraded EnderIO to EnderIO-1.6.4-1.0.4.370
